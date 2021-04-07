@@ -14,3 +14,7 @@
 - React, React Router, Restful API
 
 # Back-End 기술 스택
+
+# 구현 영상
+
+- 링크 : https://drive.google.com/file/d/1AXn7Rxx9-iq_jZuIgwneczkZDlPmJQB7/view?usp=sharing
